@@ -1,18 +1,21 @@
 #ifndef DYNARR_H_INCLUDED
 #define DYNARR_H_INCLUDED
 
-class dynArr
-{
+class dynArr {
 private:
     int *data;
     int size;
 public:
     dynArr();
-    dynArr(int );
+
+    dynArr(int);
+
     ~dynArr();
 
-    void allocate(int );
+    void allocate(int);
+
     void setValue(int, int);
+
     int getValue(int);
 };
 
