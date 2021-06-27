@@ -8,4 +8,4 @@ include_directories(.)
 add_executable(L3
         declarationFile.h
         definition.cpp
-        main.cpp)
+        driver.cpp ArrayClass.cpp)

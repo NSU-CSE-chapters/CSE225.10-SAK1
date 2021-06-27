@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/L3.dir/ArrayClass.cpp.o"
   "CMakeFiles/L3.dir/definition.cpp.o"
-  "CMakeFiles/L3.dir/main.cpp.o"
+  "CMakeFiles/L3.dir/driver.cpp.o"
   "L3"
   "L3.pdb"
 )
