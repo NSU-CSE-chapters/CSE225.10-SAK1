@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/L3.dir/definition.cpp.o CMakeFiles/L3.dir/driver.cpp.o CMakeFiles/L3.dir/ArrayClass.cpp.o CMakeFiles/L3.dir/Task_2.cpp.o CMakeFiles/L3.dir/Task_1.cpp.o -o L3 
