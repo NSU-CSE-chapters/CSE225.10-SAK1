@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1625340218 source:/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L2/main.cpp
+	"DynArr.h"
+	<iostream>
+
+1625376387 /media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L2/include/DynArr.h
+
+1625376400 source:/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L2/src/DynArr.cpp
+	"DynArr.h"
+	<iostream>
+

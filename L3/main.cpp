@@ -1,14 +1,15 @@
-#include "DynArr.h"
 #include <iostream>
+#include"DynArr.h"
 
 using namespace std;
 
+
 int main()
 {
-    DynArr arr2;
-    //DynArr arr2(5);
+    // DynArr<int> arr2;
+    DynArr<int> arr2(7);
 
-    arr2.allocate(7);
+    // arr2.allocate(7);
 
     //user input
     cout<<"enter the element of the array: ";
@@ -32,8 +33,6 @@ int main()
 
 
     arr2.~DynArr();
-
-
 
     return 0;
 }
