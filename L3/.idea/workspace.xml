@@ -12,21 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ae1c705-6719-415d-922b-864e91f9d147" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/L3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynArr.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DynArr.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3.depend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/L3.layout" beforeDir="false" afterPath="$PROJECT_DIR$/L3.layout" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/DynArr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/DynArr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/src/DynArr.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynArr.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2/L2.layout" beforeDir="false" afterPath="$PROJECT_DIR$/../L2/L2.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +41,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
@@ -80,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625502665568</updated>
-      <workItem from="1625502667225" duration="1097000" />
+      <workItem from="1625502667225" duration="2474000" />
     </task>
     <servers />
   </component>

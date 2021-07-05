@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Task3.dir/main.cpp.o CMakeFiles/Task3.dir/DynArr.cpp.o -o Task3 
