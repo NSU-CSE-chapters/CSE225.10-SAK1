@@ -4,7 +4,6 @@
 CMakeFiles/Task3.dir/DynArr.cpp.o: ../DynArr.cpp
 CMakeFiles/Task3.dir/DynArr.cpp.o: ../DynArr.h
 
-CMakeFiles/Task3.dir/main.cpp.o: ../DynArr.cpp
 CMakeFiles/Task3.dir/main.cpp.o: ../DynArr.h
 CMakeFiles/Task3.dir/main.cpp.o: ../main.cpp
 

@@ -1,6 +1,6 @@
 #include <iostream>
 #include "DynArr.h"
-#include "DynArr.cpp"
+//#include "DynArr.cpp"
 
 using namespace std;
 int main() {
