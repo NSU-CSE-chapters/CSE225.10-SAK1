@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Evaluation_Test.dir/main.cpp.o CMakeFiles/Evaluation_Test.dir/MinMax.cpp.o -o Evaluation_Test 

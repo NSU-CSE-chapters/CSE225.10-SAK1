@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/MinMax.cpp
+MinMax.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/MinMax.h
+iostream
+-
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/MinMax.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/main.cpp
+iostream
+-
+MinMax.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/MinMax.h
+MinMax.cpp
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/MinMax.cpp
+
