@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/UnsortedType.cpp
+UnsortedType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/UnsortedType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/UnsortedType.h
+

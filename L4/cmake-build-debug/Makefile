@@ -67,10 +67,10 @@ RM = /snap/clion/158/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test"
+CMAKE_SOURCE_DIR = /media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/cmake-build-debug"
+CMAKE_BINARY_DIR = /media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -99,9 +99,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/cmake-build-debug/CMakeFiles" "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/cmake-build-debug//CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/cmake-build-debug/CMakeFiles /media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/Evaluation Test/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -130,44 +130,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Evaluation_Test
+# Target rules for targets named L4
 
 # Build rule for target.
-Evaluation_Test: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Evaluation_Test
-.PHONY : Evaluation_Test
+L4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 L4
+.PHONY : L4
 
 # fast build rule for target.
-Evaluation_Test/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Evaluation_Test.dir/build.make CMakeFiles/Evaluation_Test.dir/build
-.PHONY : Evaluation_Test/fast
+L4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/build
+.PHONY : L4/fast
 
-MinMax.o: MinMax.cpp.o
+UnsortedType.o: UnsortedType.cpp.o
 
-.PHONY : MinMax.o
+.PHONY : UnsortedType.o
 
 # target to build an object file
-MinMax.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Evaluation_Test.dir/build.make CMakeFiles/Evaluation_Test.dir/MinMax.cpp.o
-.PHONY : MinMax.cpp.o
+UnsortedType.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/UnsortedType.cpp.o
+.PHONY : UnsortedType.cpp.o
 
-MinMax.i: MinMax.cpp.i
+UnsortedType.i: UnsortedType.cpp.i
 
-.PHONY : MinMax.i
+.PHONY : UnsortedType.i
 
 # target to preprocess a source file
-MinMax.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Evaluation_Test.dir/build.make CMakeFiles/Evaluation_Test.dir/MinMax.cpp.i
-.PHONY : MinMax.cpp.i
+UnsortedType.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/UnsortedType.cpp.i
+.PHONY : UnsortedType.cpp.i
 
-MinMax.s: MinMax.cpp.s
+UnsortedType.s: UnsortedType.cpp.s
 
-.PHONY : MinMax.s
+.PHONY : UnsortedType.s
 
 # target to generate assembly for a file
-MinMax.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Evaluation_Test.dir/build.make CMakeFiles/Evaluation_Test.dir/MinMax.cpp.s
-.PHONY : MinMax.cpp.s
+UnsortedType.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/UnsortedType.cpp.s
+.PHONY : UnsortedType.cpp.s
 
 main.o: main.cpp.o
 
@@ -175,7 +175,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Evaluation_Test.dir/build.make CMakeFiles/Evaluation_Test.dir/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -184,7 +184,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Evaluation_Test.dir/build.make CMakeFiles/Evaluation_Test.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -193,7 +193,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Evaluation_Test.dir/build.make CMakeFiles/Evaluation_Test.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -204,10 +204,10 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... Evaluation_Test"
-	@echo "... MinMax.o"
-	@echo "... MinMax.i"
-	@echo "... MinMax.s"
+	@echo "... L4"
+	@echo "... UnsortedType.o"
+	@echo "... UnsortedType.i"
+	@echo "... UnsortedType.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
