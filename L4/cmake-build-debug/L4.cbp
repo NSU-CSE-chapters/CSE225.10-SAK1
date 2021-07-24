@@ -91,6 +91,12 @@
 		<Unit filename="/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/main.cpp">
 			<Option target="L4"/>
 		</Unit>
+		<Unit filename="/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/studentInfo.cpp">
+			<Option target="L4"/>
+		</Unit>
+		<Unit filename="/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/studentInfo.h">
+			<Option target="L4"/>
+		</Unit>
 		<Unit filename="/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

@@ -7,10 +7,11 @@
 
 const int MAX_ITEMS = 5;
 
+template<class T>
 class UnsortedType {
 private:
     int length;
-    int info[MAX_ITEMS];
+    T info[MAX_ITEMS];
     int currentPos;
 
 public:
@@ -22,15 +23,15 @@ public:
 
     int LengthIs();
 
-    void InsertItem(int );
+    void InsertItem(T);
 
-    void DeleteItem(int);
+    void DeleteItem(T);
 
-    void RetrieveItem(int &, bool &);
+    void RetrieveItem(T);
 
     void ResetList();
 
-    void GetNextItem(int &);
+    void GetNextItem();
 
 
 };

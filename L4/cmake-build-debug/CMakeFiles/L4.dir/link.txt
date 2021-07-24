@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/L4.dir/main.cpp.o CMakeFiles/L4.dir/UnsortedType.cpp.o -o L4 
+/usr/bin/c++ -g CMakeFiles/L4.dir/main.cpp.o CMakeFiles/L4.dir/UnsortedType.cpp.o CMakeFiles/L4.dir/studentInfo.cpp.o -o L4 

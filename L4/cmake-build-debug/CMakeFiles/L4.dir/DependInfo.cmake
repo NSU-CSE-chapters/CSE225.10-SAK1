@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/UnsortedType.cpp" "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/cmake-build-debug/CMakeFiles/L4.dir/UnsortedType.cpp.o"
   "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/main.cpp" "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/cmake-build-debug/CMakeFiles/L4.dir/main.cpp.o"
+  "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/studentInfo.cpp" "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/cmake-build-debug/CMakeFiles/L4.dir/studentInfo.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

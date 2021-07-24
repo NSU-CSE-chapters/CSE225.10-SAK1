@@ -196,6 +196,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+studentInfo.o: studentInfo.cpp.o
+
+.PHONY : studentInfo.o
+
+# target to build an object file
+studentInfo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/studentInfo.cpp.o
+.PHONY : studentInfo.cpp.o
+
+studentInfo.i: studentInfo.cpp.i
+
+.PHONY : studentInfo.i
+
+# target to preprocess a source file
+studentInfo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/studentInfo.cpp.i
+.PHONY : studentInfo.cpp.i
+
+studentInfo.s: studentInfo.cpp.s
+
+.PHONY : studentInfo.s
+
+# target to generate assembly for a file
+studentInfo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/L4.dir/build.make CMakeFiles/L4.dir/studentInfo.cpp.s
+.PHONY : studentInfo.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -211,6 +238,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... studentInfo.o"
+	@echo "... studentInfo.i"
+	@echo "... studentInfo.s"
 .PHONY : help
 
 
