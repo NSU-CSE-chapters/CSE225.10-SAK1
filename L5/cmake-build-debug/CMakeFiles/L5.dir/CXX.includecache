@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/SortedType.cpp
+SortedType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/SortedType.h
+iostream
+-
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/SortedType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/main.cpp
+iostream
+-
+SortedType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/SortedType.h
+SortedType.cpp
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/SortedType.cpp
+bits/stdc++.h
+-
+
