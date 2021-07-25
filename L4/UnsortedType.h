@@ -4,7 +4,8 @@
 
 #ifndef L4_UNSORTEDTYPE_H
 #define L4_UNSORTEDTYPE_H
-
+#include <iostream>
+using namespace  std;
 const int MAX_ITEMS = 5;
 
 template<class T>
@@ -33,6 +34,20 @@ public:
 
     void GetNextItem();
 
+
+};
+
+class studentInfo {
+private:
+    int id;
+    string name;
+    double cgpa;
+public:
+    studentInfo();
+
+    studentInfo(int, string, double);
+
+    void printFunc();
 
 };
 

@@ -53,7 +53,7 @@ void UnsortedType<T>::RetrieveItem(T item) {
     for (int i = 0; i < length; ++i) {
         if (info[i] == item) {
             cout << "Item is found" << endl;
-            return ;
+            return;
         } else {
             cout << "Item is not found" << endl;
             return;
@@ -78,3 +78,13 @@ void UnsortedType<T>::DeleteItem(T item) {
     length--;
 }
 
+studentInfo::studentInfo(int id, string name, double cgpa) {
+    this->id = id;
+    this->name = name;
+    this->cgpa = cgpa;
+}
+
+void studentInfo::printFunc() {
+    cout << id << " " << name << " " << cgpa << endl;
+
+}

@@ -1,7 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/L4.dir/UnsortedType.cpp.o"
   "CMakeFiles/L4.dir/main.cpp.o"
-  "CMakeFiles/L4.dir/studentInfo.cpp.o"
   "L4"
   "L4.pdb"
 )

@@ -7,8 +7,4 @@ CMakeFiles/L4.dir/UnsortedType.cpp.o: ../UnsortedType.h
 CMakeFiles/L4.dir/main.cpp.o: ../UnsortedType.cpp
 CMakeFiles/L4.dir/main.cpp.o: ../UnsortedType.h
 CMakeFiles/L4.dir/main.cpp.o: ../main.cpp
-CMakeFiles/L4.dir/main.cpp.o: ../studentInfo.cpp
-CMakeFiles/L4.dir/main.cpp.o: ../studentInfo.h
-
-CMakeFiles/L4.dir/studentInfo.cpp.o: ../studentInfo.cpp
 

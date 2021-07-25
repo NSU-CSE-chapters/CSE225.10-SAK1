@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/UnsortedType.cpp" "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/cmake-build-debug/CMakeFiles/L4.dir/UnsortedType.cpp.o"
-  "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/main.cpp" "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L4/cmake-build-debug/CMakeFiles/L4.dir/main.cpp.o"
+  "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/SortedType.cpp" "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/cmake-build-debug/CMakeFiles/L5.dir/SortedType.cpp.o"
+  "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/main.cpp" "/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L5/cmake-build-debug/CMakeFiles/L5.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
