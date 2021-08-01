@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L6/StackType.cpp
+iostream
+-
+StackType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L6/StackType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L6/StackType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L6/main.cpp
+iostream
+-
+StackType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L6/StackType.h
+StackType.cpp
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L6/StackType.cpp
+

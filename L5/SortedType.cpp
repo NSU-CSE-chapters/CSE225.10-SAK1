@@ -102,20 +102,40 @@ void SortedType<T>::display() {
 
     cout << endl;
 }
-
-void timeStamp::print() {
-    cout<<seconds<<":"<<minutes<<":"<<hours<<endl;
+timeStamp::timeStamp(int ss, int mm, int hh)
+{
+    ss = second;
+    mm = minute;
+    hh = hour;
 
 }
 
-timeStamp::timeStamp(int sec, int min, int hour) {
-    this->seconds = sec;
-    this->minutes  = min;
-    this->hours  = hour;
-}
 
-timeStamp::timeStamp() {
-    seconds = 0;
-    minutes = 0;
-    hours = 0;
+timeStamp::timeStamp()
+{
+   second=0;
+   minute=0;
+   hour=0;
+}
+void timeStamp::setTimeStamp(int ss, int mm, int hh)
+{
+    second = ss;
+    minute = mm;
+    hour = hh;
+}
+void timeStamp::PrintTimeStamp()
+{
+   cout<<second <<":"<< minute << ":"<<hour<< endl;
+}
+int timeStamp::getHour()
+{
+    return hour;
+}
+int timeStamp ::getMinute()
+{
+    return minute;
+}
+int timeStamp ::getSecond()
+{
+    return second;
 }

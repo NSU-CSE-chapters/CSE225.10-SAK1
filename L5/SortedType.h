@@ -34,15 +34,20 @@ public:
 
 };
 
-class timeStamp{
+class timeStamp
+{
 public:
+    timeStamp(int, int, int);
     timeStamp();
-    timeStamp(int ,  int, int);
-    void print();
+    void setTimeStamp(int, int, int);
+    void PrintTimeStamp();
+    int getMinute();
+    int getSecond();
+    int getHour();
 private:
-    int seconds;
-    int minutes;
-    int hours;
+    int second;
+    int minute;
+    int hour;
 };
 
 #endif //L5_SORTEDTYPE_H

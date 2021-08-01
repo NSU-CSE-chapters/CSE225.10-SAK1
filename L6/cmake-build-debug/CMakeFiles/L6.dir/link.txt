@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/L6.dir/main.cpp.o CMakeFiles/L6.dir/StackType.cpp.o -o L6 
