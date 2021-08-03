@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/L7.dir/main.cpp.o CMakeFiles/L7.dir/QueueType.cpp.o -o L7 
