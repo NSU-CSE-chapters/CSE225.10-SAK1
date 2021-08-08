@@ -5,4 +5,6 @@ CMakeFiles/L7.dir/QueueType.cpp.o: \
  ../QueueType.cpp \
  ../QueueType.h
 CMakeFiles/L7.dir/main.cpp.o: \
+ ../QueueType.cpp \
+ ../QueueType.h \
  ../main.cpp

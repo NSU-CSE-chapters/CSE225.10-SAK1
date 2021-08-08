@@ -1,0 +1,3 @@
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L8/cmake-build-debug/CMakeFiles/L8.dir

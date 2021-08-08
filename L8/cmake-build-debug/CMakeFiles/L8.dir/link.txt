@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/L8.dir/main.cpp.o CMakeFiles/L8.dir/StackType.cpp.o -o L8 
