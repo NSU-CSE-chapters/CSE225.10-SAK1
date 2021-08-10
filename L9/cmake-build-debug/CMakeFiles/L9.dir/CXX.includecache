@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L9/QueType.cpp
+QueType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L9/QueType.h
+iostream
+-
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L9/QueType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L9/main.cpp
+QueType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L9/QueType.h
+QueType.cpp
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L9/QueType.cpp
+bits/stdc++.h
+-
+

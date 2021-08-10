@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/L9.dir/main.cpp.o CMakeFiles/L9.dir/QueType.cpp.o -o L9 
