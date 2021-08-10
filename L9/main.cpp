@@ -2,13 +2,6 @@
 #include "QueType.cpp"
 #include <bits/stdc++.h>
 
-#define  mxx 10000
-using namespace std;
-
-
-
-
-
 using namespace std;
 
 
@@ -55,7 +48,7 @@ int main() {
     QueType<int> coins;
     int n;
     int money;
-    cout << "input: " ;
+    cout << "input: ";
     cin >> n;
     cout << "" << endl;
     for (int i = 0; i < n; i++) {
