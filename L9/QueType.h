@@ -35,6 +35,8 @@ public:
 
     ItemType top();
 
+    int bottom();
+
 
 private:
     NodeType *front, *rear;

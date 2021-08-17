@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/L10.dir/main.cpp.o CMakeFiles/L10.dir/UnsortedType.cpp.o -o L10 
