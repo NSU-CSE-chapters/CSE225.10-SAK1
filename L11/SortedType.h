@@ -5,6 +5,8 @@
 #ifndef L11_SORTEDTYPE_H
 #define L11_SORTEDTYPE_H
 
+#include <iostream>
+
 template <class ItemType>
 class SortedType
 {
@@ -16,56 +18,48 @@ class SortedType
 
 public:
     SortedType();
-
     ~SortedType();
-
     bool IsFull();
-
     int LengthIs();
-
     void MakeEmpty();
-
-    void RetrieveItem(ItemType &,
-                      bool &);
-
+    void RetrieveItem(ItemType &, bool &);
     void InsertItem(ItemType);
-
     void DeleteItem(ItemType);
-
     void ResetList();
-
     void GetNextItem(ItemType &);
 
 private:
     NodeType *listData;
     int length;
     NodeType *currentPos;
-    int hour;
-    int minute;
-    int second;
 };
 
-class timeStamp : SortedType<int>
+class timeStamp
 {
+
+    struct NodeType
+    {
+        int second;
+        int minute;
+        int hour;
+        NodeType *next;
+    };
+
 public:
-    timeStamp(int, int, int);
-
     timeStamp();
-
-    void setTimeStamp(int, int, int);
-
-    void PrintTimeStamp();
-
-    int getMinute();
-
-    int getSecond();
-
-    int getHour();
+    int LengthIs();
+    void MakeEmpty();
+    void ResetList();
+    void InsertItem(int, int, int);
+    void DeleteItem(int, int, int);
+    void GetNextItem(int &, int &, int &);
+    void PrintTimes();
+    ~timeStamp();
 
 private:
-    int second;
-    int minute;
-    int hour;
+    NodeType *listData;
+    int length;
+    NodeType *currentPos;
 };
 
 #endif //L11_SORTEDTYPE_H
