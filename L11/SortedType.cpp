@@ -91,9 +91,7 @@ void SortedType<ItemType>::DeleteItem(ItemType item)
 }
 
 template <class ItemType>
-void SortedType<ItemType>::RetrieveItem(ItemType
-                                            &item,
-                                        bool &found)
+void SortedType<ItemType>::RetrieveItem(ItemType &item, bool &found)
 {
     NodeType *location = listData;
     bool moreToSearch = (location != NULL);
@@ -136,8 +134,7 @@ void SortedType<ItemType>::ResetList()
     currentPos = NULL;
 }
 template <class ItemType>
-void SortedType<ItemType>::GetNextItem(ItemType
-                                           &item)
+void SortedType<ItemType>::GetNextItem(ItemType &item)
 {
     if (currentPos == NULL)
         currentPos = listData;
