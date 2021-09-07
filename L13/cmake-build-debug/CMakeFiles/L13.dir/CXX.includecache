@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/BinarySearchTree.cpp
+BinarySearchTree.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/BinarySearchTree.h
+QueueType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/QueueType.h
+iostream
+-
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/BinarySearchTree.h
+QueueType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/QueueType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/QueueType.cpp
+QueueType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/QueueType.h
+iostream
+-
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/QueueType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/main.cpp
+BinarySearchTree.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/BinarySearchTree.h
+BinarySearchTree.cpp
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/BinarySearchTree.cpp
+QueueType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/QueueType.h
+QueueType.cpp
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L13/QueueType.cpp
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/L13.dir/main.cpp.o CMakeFiles/L13.dir/BinarySearchTree.cpp.o CMakeFiles/L13.dir/QueueType.cpp.o -o L13 

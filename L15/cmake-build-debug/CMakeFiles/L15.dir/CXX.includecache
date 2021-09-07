@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/GraphType.cpp
+GraphType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/GraphType.h
+QueueType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/QueueType.h
+QueueType.cpp
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/QueueType.cpp
+StackType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/StackType.h
+StackType.cpp
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/StackType.cpp
+iostream
+-
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/GraphType.h
+QueueType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/QueueType.h
+StackType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/StackType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/QueueType.cpp
+QueueType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/QueueType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/QueueType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/StackType.cpp
+StackType.h
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/StackType.h
+
+/media/f12r/Projects/CSE225.10/CSE225.10-SAK1/L15/StackType.h
+
