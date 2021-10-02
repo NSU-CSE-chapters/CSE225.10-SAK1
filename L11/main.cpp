@@ -6,19 +6,19 @@ using namespace std;
 
 int main()
 {
-    int s, m, h;
-    timeStamp time;
-    cout << "five time stamp: " << endl;
-    for (int i = 0; i < 5; i++)
-    {
-        cin >> s >> m >> h;
-        time.InsertItem(s, m, h);
-    }
-    cout << "delete time stamp: " << endl;
-    cin >> s >> m >> h;
-    time.DeleteItem(s, m, h);
+    SortedType<int> list;
 
-    cout << "display time stamps: " << endl;
-    time.PrintTimes();
-    return 0;
+    list.InsertItem(5);
+    list.InsertItem(10);
+    list.InsertItem(5);
+    list.InsertItem(5);
+
+    for (size_t i = 0; i < list.LengthIs(); i++)
+    {
+        int x;
+
+        list.GetNextItem(x);
+        }
+
+    cout << endl;
 }

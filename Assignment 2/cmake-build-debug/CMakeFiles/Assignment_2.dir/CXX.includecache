@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/f12r/Desktop/cse225/Assignment 2/StackLinkedList.cpp
+StackLinkedList.h
+/home/f12r/Desktop/cse225/Assignment 2/StackLinkedList.h
+iostream
+-
+
+/home/f12r/Desktop/cse225/Assignment 2/StackLinkedList.h
+
+/home/f12r/Desktop/cse225/Assignment 2/main.cpp
+StackLinkedList.h
+/home/f12r/Desktop/cse225/Assignment 2/StackLinkedList.h
+StackLinkedList.cpp
+/home/f12r/Desktop/cse225/Assignment 2/StackLinkedList.cpp
+iostream
+-
+

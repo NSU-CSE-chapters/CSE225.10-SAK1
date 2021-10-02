@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/f12r/Desktop/cse225/Lab Assignment/Task 1/UnsortedType.cpp
+UnsortedType.h
+/home/f12r/Desktop/cse225/Lab Assignment/Task 1/UnsortedType.h
+
+/home/f12r/Desktop/cse225/Lab Assignment/Task 1/UnsortedType.h
+
+/home/f12r/Desktop/cse225/Lab Assignment/Task 1/main.cpp
+UnsortedType.h
+/home/f12r/Desktop/cse225/Lab Assignment/Task 1/UnsortedType.h
+UnsortedType.cpp
+/home/f12r/Desktop/cse225/Lab Assignment/Task 1/UnsortedType.cpp
+iostream
+-
+

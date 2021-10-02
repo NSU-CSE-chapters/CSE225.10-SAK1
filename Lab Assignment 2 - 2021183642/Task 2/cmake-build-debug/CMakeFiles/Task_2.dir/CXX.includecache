@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/QueType.cpp
+QueType.h
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/QueType.h
+iostream
+-
+
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/QueType.h
+
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/StackType.cpp
+StackType.h
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/StackType.h
+
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/StackType.h
+
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/main.cpp
+QueType.h
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/QueType.h
+QueType.cpp
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/QueType.cpp
+StackType.h
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/StackType.h
+StackType.cpp
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 2/StackType.cpp
+iostream
+-
+

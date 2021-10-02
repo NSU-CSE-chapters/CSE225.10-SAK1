@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/f12r/Desktop/cse225/Assignment 3/QueueLinkedList.cpp
+QueueLinkedList.h
+/home/f12r/Desktop/cse225/Assignment 3/QueueLinkedList.h
+iostream
+-
+
+/home/f12r/Desktop/cse225/Assignment 3/QueueLinkedList.h
+
+/home/f12r/Desktop/cse225/Assignment 3/main.cpp
+QueueLinkedList.h
+/home/f12r/Desktop/cse225/Assignment 3/QueueLinkedList.h
+QueueLinkedList.cpp
+/home/f12r/Desktop/cse225/Assignment 3/QueueLinkedList.cpp
+iostream
+-
+

@@ -1,0 +1,3 @@
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/f12r/Desktop/cse225/Lab Assignment 2 - 2021183642/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir

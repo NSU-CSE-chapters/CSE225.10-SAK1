@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/f12r/Desktop/cse225/Lab Final/BinaryTree.cpp
+BinaryTree.h
+/home/f12r/Desktop/cse225/Lab Final/BinaryTree.h
+iostream
+-
+
+/home/f12r/Desktop/cse225/Lab Final/BinaryTree.h
+
+/home/f12r/Desktop/cse225/Lab Final/main.cpp
+BinaryTree.h
+/home/f12r/Desktop/cse225/Lab Final/BinaryTree.h
+BinaryTree.cpp
+/home/f12r/Desktop/cse225/Lab Final/BinaryTree.cpp
+iostream
+-
+

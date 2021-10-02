@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Assignment_2.dir/main.cpp.o CMakeFiles/Assignment_2.dir/StackLinkedList.cpp.o -o Assignment_2 

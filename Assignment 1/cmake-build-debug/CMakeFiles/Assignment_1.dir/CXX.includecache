@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/f12r/Desktop/cse225/Assignment 1/CheckParenthesis.cpp
+CheckParenthesis.h
+/home/f12r/Desktop/cse225/Assignment 1/CheckParenthesis.h
+iostream
+-
+bits/stdc++.h
+-
+
+/home/f12r/Desktop/cse225/Assignment 1/CheckParenthesis.h
+
+/home/f12r/Desktop/cse225/Assignment 1/main.cpp
+CheckParenthesis.h
+/home/f12r/Desktop/cse225/Assignment 1/CheckParenthesis.h
+CheckParenthesis.cpp
+/home/f12r/Desktop/cse225/Assignment 1/CheckParenthesis.cpp
+iostream
+-
+
